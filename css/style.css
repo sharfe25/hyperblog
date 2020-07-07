@@ -4,7 +4,13 @@ body{
     color: #333333;
     font-size: 16px;
 }
-
+#cabecera{
+    font-weight: bold;
+    background-color: cadetblue;
+    color: white;
+    margin: 0;
+    padding:2em;
+}
 #container{
     width: 70%;
     padding: 1em;
